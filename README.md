@@ -5,5 +5,5 @@ Each folder is a self contained folder.
 
 ### Projects:
 
-[1. Expanding Cards](https://github.com/JimBowler82/50-Projects-Repo/tree/main/1-Expanding-Cards)
-[2. Progress Steps](https://github.com/JimBowler82/50-Projects-Repo/tree/main/2-Progress-Steps)
+1. [Expanding Cards](https://github.com/JimBowler82/50-Projects-Repo/tree/main/1-Expanding-Cards)
+2. [Progress Steps](https://github.com/JimBowler82/50-Projects-Repo/tree/main/2-Progress-Steps)

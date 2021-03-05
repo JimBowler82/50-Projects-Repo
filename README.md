@@ -5,4 +5,4 @@ Each folder is a self contained folder.
 
 ### Projects:
 
-[1. Expanding Cards]()
+[1. Expanding Cards](https://github.com/JimBowler82/50-Projects-Repo/tree/main/1-Expanding-Cards)

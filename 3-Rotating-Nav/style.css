@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #333;
+  display: relative;
+}
+
+.main {
+  width: 100%;
+  height: 100%;
+  background-color: #fafafa;
+  transform-origin: top left;
+  transition: transform 0.6s ease-in;
+}
+
+.article {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.article img {
+  width: 100%;
+}
+
+.heading {
+  font-size: 2rem;
+}
+
+.sub-heading {
+  padding-bottom: 20px;
+  font-size: 1.2rem;
+}
+
+.author {
+  font-style: italic;
+}
+
+.article-content {
+  padding: 20px 0;
+}
+
+.button-div {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: dodgerblue;
+  position: fixed;
+  top: -100px;
+  left: -100px;
+  transform-origin: center center;
+  transition: transform 0.6s ease-in;
+}
+
+.burger {
+  width: 25px;
+  height: 20px;
+  position: absolute;
+  top: 70%;
+  left: 65%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.burger div {
+  height: 20%;
+  width: 100%;
+  background-color: white;
+  border-radius: 2px;
+}
+
+.button-div span {
+  position: absolute;
+  top: 53%;
+  left: 15%;
+  color: white;
+  font-weight: bold;
+  font-size: 2rem;
+  transform: rotate(110deg);
+  cursor: pointer;
+}
+
+.rotate-button {
+  transform: rotate(-90deg);
+}
+
+.rotate-main {
+  transform: rotate(-20deg);
+}
+
+.side-nav {
+  position: fixed;
+  top: 75%;
+  left: 40px;
+  transition: left 0.5s ease-in-out 0.3s;
+  z-index: -1;
+  margin-right: 30px;
+}
+
+.side-nav ul {
+  list-style: none;
+}
+
+.side-nav li {
+  padding: 15px 0;
+  font-size: 1.3rem;
+  color: white;
+  text-transform: uppercase;
+}
+
+.side-nav li:nth-child(2) {
+  transform: translateX(20px);
+}
+
+.side-nav li:nth-child(3) {
+  transform: translateX(40px);
+}
+
+.side-nav li span {
+  margin-right: 10px;
+}
+
+.nav-closed {
+  left: -250px;
+}

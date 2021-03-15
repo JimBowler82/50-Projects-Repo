@@ -1,6 +1,6 @@
 # Progress Steps
 
-## Project 2 for 50 projects in 50 days.
+## Project 2 for 50 projects in x days.
 
 This a HTML5 CSS3 & JavaScript project to display progress steps which increment / decrement on button click.
 

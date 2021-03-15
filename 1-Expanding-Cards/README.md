@@ -1,6 +1,6 @@
 # Expanding Cards
 
-## Project 1 for 50 projects in 50 days.
+## Project 1 for 50 projects in x days.
 
 This a responsive HTML5 CSS3 & JavaScript project to display clickable expanding images.
 

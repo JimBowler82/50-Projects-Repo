@@ -1,7 +1,11 @@
 # Project Repo for 50 Projects in x Days
 
+50 Small HTML5, CSS3 & JavaScript projects.
+
 This repo holds project folders for my attempts at the 50 projects.
-Each folder is a self contained folder.
+Each folder is a self contained project.
+
+View the projects live [HERE](https://50projects.netlify.app/)
 
 ### Projects:
 

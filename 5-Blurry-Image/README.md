@@ -1,6 +1,6 @@
 # Blurry Image Loading
 
-## Project 4 for 50 projects in x days.
+## Project 5 for 50 projects in x days.
 
 This a HTML5 CSS3 & JavaScript project which loads an image from blurry to clear while showing a loading percentage.
 

@@ -1,4 +1,4 @@
-# Rotating Navigation
+# Hidden Search
 
 ## Project 4 for 50 projects in x days.
 
